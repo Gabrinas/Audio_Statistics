@@ -1,0 +1,27 @@
+General and Public Health Domains (ALL_SPEAKERS - 108)
+-------------------------------------------------
+
+en - yor (src - tgt)
+
+num_audios_src: 21525
+num_audios_tgt: 21525
+total_num_audios: 43050
+len_audio(time)_src: 175867.9364 secs (48.85 hrs)
+len_audio(time)_tgt: 215312.2799 secs (59.81 hrs)
+len_audio(time)_total: 391180.2362 secs (108.66 hrs)
+num_words_src: 311376
+num_unique_words_src (030 + 031 + etc.): 116233
+num_words_tgt: 362813
+num_unique_words_tgt: 120394
+num_of_characters_src: 1563223
+num_of_characters_tgt: 1502789
+num_lines_of_text_src: 21525
+num_lines_of_text_tgt: 21525
+num_lines_of_text_total: 43050
+number_male_speakers: 29
+number_female_speakers: 78
+Multiple speakers: 1
+total_num_speakers: 108
+age_range: 18 years+
+accent: Oyo, South Western Accent
+Country: Nigeria

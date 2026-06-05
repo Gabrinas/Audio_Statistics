@@ -1,0 +1,27 @@
+General and Public Health Domains (ALL_SPEAKERS - 005)
+-------------------------------------------------
+
+en - yor (src - tgt)
+
+num_audios_src: 981
+num_audios_tgt: 981
+total_num_audios: 1962
+len_audio(time)_src: 8633.686 secs (2.40 hrs)
+len_audio(time)_tgt: 10137.174 secs (2.82 hrs)
+len_audio(time)_total: 18,770.86 secs (5.22 hrs)
+num_words_src: 12373
+num_unique_words_src (030 + 031 + etc.): 4691
+num_words_tgt: 13016
+num_unique_words_tgt: 5012
+num_of_characters_src: 56754
+num_of_characters_tgt: 50552
+num_lines_of_text_src: 981
+num_lines_of_text_tgt: 981
+num_lines_of_text_total: 1962
+number_male_speakers: 0
+number_female_speakers: 4
+Multiple speakers: 1
+total_num_speakers: 5
+age_range: 18 years+
+accent: Badagry, Lagos; South Western Accent
+Country: Nigeria

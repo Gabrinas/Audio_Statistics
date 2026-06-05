@@ -1,0 +1,31 @@
+General Domains_ENG (ALL_INSTITUTIONS)
+-------------------------------------------------
+
+===========================
+Note: Subjected to Updates
+==========================
+
+Texts Info
+==========
+num_words_src: 382068
+number_unique_words_src: 29599
+minimum_len_word_src: 1
+maxmum_len_word_src: 61
+num_of_characters_src: 1745733
+num_lines_of_text_src: 35073 --> 35472 (NEW 25/05/2026)
+
+Audios Info
+==========
+num_audios_src:	35073
+min_len_audio_src (secs): 
+max_len_audio_src (secs):
+len_audio(time)_src (secs): 215413.4 (59.83 hrs.)
+average_len_audio_src (secs):
+
+Gender Info
+===========
+
+no_of_males: 61		
+no_of_females: 114	
+no_of_multiple_speakers: 2	
+no_speakers: 177	

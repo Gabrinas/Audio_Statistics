@@ -1,0 +1,27 @@
+General Domain (ALL_SPEAKERS - 002)
+-------------------------------------------------
+
+en - yor (src - tgt)
+
+num_audios_src: 399
+num_audios_tgt: 399
+total_num_audios: 798
+len_audio(time)_src: 2557.184 secs (0.71 hr.)
+len_audio(time)_tgt: 3454.805 secs (0.96 hr.)
+len_audio(time)_total: 6,011.989  secs (1.67 hrs.)
+num_words_src: 6265
+num_unique_words_src (030 + 031 + etc.): 2139
+num_words_tgt: 6598
+num_unique_words_tgt: 2294
+num_of_characters_src: 274183
+num_of_characters_tgt: 25008
+num_lines_of_text_src: 399
+num_lines_of_text_tgt: 399
+num_lines_of_text_total: 798
+number_male_speakers: 0
+number_female_speakers: 2
+Multiple speakers: 0
+total_num_speakers: 2
+age_range: 18 years+
+accent: Oyo, South Western Accent
+Country: Nigeria

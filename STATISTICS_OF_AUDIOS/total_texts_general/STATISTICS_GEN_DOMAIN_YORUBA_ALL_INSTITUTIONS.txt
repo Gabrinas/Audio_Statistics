@@ -1,0 +1,31 @@
+General Domains_YOR (ALL_INSTITUTIONS)
+-------------------------------------------------
+
+===========================
+Note: Subjected to Updates
+==========================
+
+Texts Info
+==========
+num_words_tgt: 407618
+number_unique_words_tgt: 41869
+minimum_len_word_tgt: 1
+maxmum_len_word_tgt: 65
+num_of_characters_tgt: 1592702
+num_lines_of_text_tgt: 35073 --> 35472 (NEW 25/05/2026)
+
+Audios Info
+==========
+num_audios_tgt:	35073
+min_len_audio_tgt (secs): 
+max_len_audio_tgt (secs):
+len_audio(time)_tgt (secs): 250896.6 (69.69 hrs.)
+average_len_audio_tgt (secs): 
+
+Gender Info
+===========
+
+no_of_males: 61		
+no_of_females: 114	
+no_of_multiple_speakers: 2	
+no_speakers: 177	

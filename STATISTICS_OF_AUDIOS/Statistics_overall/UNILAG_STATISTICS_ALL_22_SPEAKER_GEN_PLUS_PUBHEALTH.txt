@@ -1,0 +1,26 @@
+General and Public Health Domains (ALL_SPEAKERS - 22)
+-------------------------------------------------
+
+en - yor (src - tgt)
+
+num_audios_src: 4253
+num_audios_tgt: 4253
+total_num_audios: 8506
+len_audio(time)_src: 28961.746 secs
+len_audio(time)_tgt: 29151.519 secs
+len_audio(time)_total: 58113.26 secs
+num_words_src: 40404
+num_unique_words_src (030 + 031 + etc.): 16825
+num_words_tgt: 44247
+num_unique_words_tgt: 16098
+num_of_characters_src: 193862
+num_of_characters_tgt: 171099
+num_lines_of_text_src: 4253
+num_lines_of_text_tgt: 4253
+num_lines_of_text_total: 8506
+number_male_speakers: 7
+number_female_speakers: 15
+total_num_speakers: 22
+age_range: 16 - 26 years
+accent: Lagos Highland
+Country: Nigeria

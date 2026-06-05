@@ -1,0 +1,27 @@
+General Domain (ALL_SPEAKERS - 004)
+-------------------------------------------------
+
+en - yor (src - tgt)
+
+num_audios_src: 788
+num_audios_tgt: 788
+total_num_audios: 1576
+len_audio(time)_src: 6357.674667 secs (1.77 hr.)
+len_audio(time)_tgt: 7587.498667 secs (2.11 hr.)
+len_audio(time)_total: 13,945.173334  secs (3.88 hrs.)
+num_words_src: 10103
+num_unique_words_src (030 + 031 + etc.): 3857
+num_words_tgt: 10362
+num_unique_words_tgt: 4231
+num_of_characters_src: 45136
+num_of_characters_tgt: 39711
+num_lines_of_text_src: 788
+num_lines_of_text_tgt: 788
+num_lines_of_text_total: 1576
+number_male_speakers: 0
+number_female_speakers: 3
+Multiple speakers: 1
+total_num_speakers: 4
+age_range: 18 years+
+accent: Badagry, Lagos; South Western Accent
+Country: Nigeria

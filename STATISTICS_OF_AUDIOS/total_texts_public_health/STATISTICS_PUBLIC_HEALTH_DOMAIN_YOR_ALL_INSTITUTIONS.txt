@@ -1,0 +1,31 @@
+Public_Health Domains_YOR (ALL_INSTITUTIONS)
+-------------------------------------------------
+
+===========================
+Note: Subjected to Updates
+==========================
+
+Texts Info
+==========
+num_words_tgt: 757885
+number_unique_words_tgt: 26962
+minimum_len_word_tgt: 1
+maxmum_len_word_tgt: 121
+num_of_characters_tgt: 3407272
+num_lines_of_text_tgt: 55943 --> 68295 (NEW 25/05/2026)
+
+Audios Info
+==========
+num_audios_tgt:	55943
+min_len_audio_tgt (secs): 
+max_len_audio_tgt (secs):
+len_audio(time)_tgt (secs): 521254.4 (144.79 hrs.)
+average_len_audio_tgt (secs): 
+
+Gender Info
+===========
+
+no_of_males: 95		
+no_of_females: 187		
+no_of_multiple_speakers: 0	
+no_speakers: 282		

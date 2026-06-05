@@ -1,0 +1,26 @@
+Public Health Domain (ALL_SPEAKERS - 20)
+-------------------------------------------------
+
+en - yor (src - tgt)
+
+num_audios_src: 3973
+num_audios_tgt: 3973
+total_num_audios: 7946
+len_audio(time)_src: 38242.84793 secs (10.62 hrs.)
+len_audio(time)_tgt: 43805.09751 secs (12.17 hrs.)
+len_audio(time)_total: 82047.94544 secs (22.79 hrs.)
+num_words_src: 43992
+num_unique_words_src (030 + 031 + etc.): 16306
+num_words_tgt: 50648
+num_unique_words_tgt: 14542
+num_of_characters_src: 239259
+num_of_characters_tgt: 213037
+num_lines_of_text_src: 3973
+num_lines_of_text_tgt: 3973
+num_lines_of_text_total: 7946
+number_male_speakers: 15
+number_female_speakers: 5+
+total_num_speakers: 20
+age_range: 16 - 26; 27 - 37 years
+accent: Egba, Ijebu, other South Western Nigeria
+Country: Nigeria

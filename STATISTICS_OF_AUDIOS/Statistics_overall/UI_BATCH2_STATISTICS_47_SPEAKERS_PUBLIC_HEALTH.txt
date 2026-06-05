@@ -1,0 +1,26 @@
+Public Health Domain (ALL_SPEAKERS - 047)
+-------------------------------------------------
+
+en - yor (src - tgt)
+
+num_audios_src: 9374
+num_audios_tgt: 9374
+total_num_audios: 18,748
+len_audio(time)_src: 78183.65635 secs (21.72 hrs.)
+len_audio(time)_tgt: 92506.87986 secs (25.70 hrs.)
+len_audio(time)_total: 170,690.53621 secs (47.42 hrs.)
+num_words_src: 112114
+num_unique_words_src (030 + 031 + etc.): 43882
+num_words_tgt: 141021
+num_unique_words_tgt: 41558
+num_of_characters_src: 657910
+num_of_characters_tgt: 643768
+num_lines_of_text_src: 9374
+num_lines_of_text_tgt: 9374
+num_lines_of_text_total: 18,748
+number_male_speakers: 13
+number_female_speakers: 34
+total_num_speakers: 047
+age_range: 18 years+
+accent: Oyo, South Western Accent
+Country: Nigeria
