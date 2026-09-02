@@ -1,0 +1,32 @@
+GENERAL PLUS PUBLIC HEALTH (ALL_INSTITUTIONS)
+-------------------------------------------------
+
+===========================
+Note: Subjected to Updates
+==========================
+
+Texts Info
+==========
+num_words: 2,523,859
+number_unique_words: 96760
+minimum_len_word: 1
+maxmum_len_word: 121
+num_of_characters: 12,142,059
+num_lines_of_text: 207,534
+
+
+Audios Info
+==========
+num_audios: 207,534
+min_len_audio (secs): 0.341333
+max_len_audio (secs): 93.44
+len_audio(time) (secs): 1,667,249.71 (463.12 hrs.)
+average_len_audio (secs): 8.03
+
+Gender Info
+===========
+
+no_of_males: 170		
+no_of_females: 351			
+no_of_multiple_speakers: 2	
+no_speakers: 523			

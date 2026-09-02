@@ -1,0 +1,32 @@
+ENGLISH - GENERAL PLUS PUBLIC HEALTH (ALL_INSTITUTIONS)
+-------------------------------------------------
+
+===========================
+Note: Subjected to Updates
+==========================
+
+Texts Info
+==========
+num_words: 1348380
+number_unique_words: 66480
+minimum_len_word: 1
+maxmum_len_word: 121
+num_of_characters: 5845900
+num_lines_of_text: 103767
+
+
+Audios Info
+==========
+num_audios: 103767	
+min_len_audio (secs): 0.371519
+max_len_audio (secs): 83.712
+len_audio(time) (secs): 899,494.29 (249.85 hrs.)
+average_len_audio (secs): 8.67
+
+Gender Info
+===========
+
+no_of_males: 170		
+no_of_females: 351			
+no_of_multiple_speakers: 2	
+no_speakers: 523		
